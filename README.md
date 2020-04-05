@@ -29,6 +29,7 @@
 - **File upload.**
 - **Search.**
 - Filtering.
+- Logging.
 - More...
 
 **Screenshots:**
