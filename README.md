@@ -6,7 +6,6 @@
 
 ------------
 
-
 **Motivation:**
 - One of the projects for my portfolio. 
 - Get more experience with JavaFX framework.
@@ -33,3 +32,6 @@
 - More...
 
 **Screenshots:**
+
+<img src="https://github.com/clivelewis/gdriveapifx/blob/master/Auth_0.0.1.png" width="500">
+<img src="https://github.com/clivelewis/gdriveapifx/blob/master/Main_full_0.0.1.png" width="500">
